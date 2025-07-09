@@ -1,7 +1,7 @@
 # 👋 Hey there! I'm MS Deekshith  
 
 ## 🚀 About Me  
-🎓 B.Tech 3rd-year Computer Science student at Amrita Vishwa Vidyapeetham.  
+🎓 B.Tech Final-Year Computer Science student at Amrita Vishwa Vidyapeetham.  
 💻 Passionate about Machine Learning, AI, and Software Development.  
 🔍 Exploring the world of Open Source and Competitive Programming.  
 🎯 Goal: Becoming a Software Engineer and contributing to impactful projects.  
